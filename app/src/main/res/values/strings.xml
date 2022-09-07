@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Wallet App</string>
+    <string name="countdown_timer_text">Resend OTP in</string>
+</resources>
